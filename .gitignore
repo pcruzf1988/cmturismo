@@ -1,0 +1,14 @@
+node_modules/
+dist/
+out/
+release/
+build/
+.env
+*.log
+data/clients.json
+.DS_Store
+Thumbs.db
+*.dmg
+*.exe
+*.AppImage
+*.zip
